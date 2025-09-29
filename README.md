@@ -10,7 +10,7 @@
 - 3D Modeling
 - Software Engineering
 
-## Hobbies
+### Hobbies
 - Reading
 - Diving
 - Video Games
