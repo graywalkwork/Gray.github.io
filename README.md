@@ -1,2 +1,2 @@
 # Grayson Walker
-![photo of me](Grayson Photo.png)
+![photo of me](/Grayson Photo.png)
