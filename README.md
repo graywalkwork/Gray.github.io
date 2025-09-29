@@ -3,4 +3,4 @@
 
 ## BSU Comp Sci and GIMM Major
 - [BSU's Comp Sci Degree](https://www.boisestate.edu/coen-cs/academics) <br/>
-- [BSU's GIMM Degreee](https://www.boisestate.edu/gimm)
+- [BSU's GIMM Degree](https://www.boisestate.edu/gimm)
