@@ -5,7 +5,7 @@
 - [BSU's Comp Sci Degree](https://www.boisestate.edu/coen-cs/academics) <br/>
 - [BSU's GIMM Degree](https://www.boisestate.edu/gimm)
 
-## Interests
+### Interests
 - Game Design
 - 3D Modeling
 - Software Engineering
